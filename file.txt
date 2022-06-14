@@ -52,4 +52,3 @@ int main() {
 	catch (const char* s) {
 		cout << s << endl;
 	}
-}
